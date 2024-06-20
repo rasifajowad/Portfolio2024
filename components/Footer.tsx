@@ -18,7 +18,7 @@ const Footer = () => {
         <h1 className="heading lg:max-w-[45vw]">
           Ready to Take{" "}
           <span className="text-purple">
-            You're Digital Presence to the Next Level
+            You&apos;re Digital Presence to the Next Level
           </span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
@@ -42,11 +42,8 @@ const Footer = () => {
 
         <div className="flex items-center mt-5 md:mt-0 md:gap-3 gap-6">
           {socialMedia.map((profile) => (
-            <a href={profile.link}>
-              <div
-                className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
-                key={profile.id}
-              >
+            <a key={profile.id} href={profile.link}>
+              <div className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300">
                 <img src={profile.img} alt="socials" width={20} height={20} />
               </div>
             </a>
