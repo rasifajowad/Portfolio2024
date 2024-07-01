@@ -52,8 +52,8 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="hidden lg:-mt-20 lg:block lg:max-w-[50vw] lg:relative lg:z-10">
-          <img src="/ajowadDP.svg" alt="Profile Picture" />
+        <div className="hidden lg:-mt-20 lg:block lg:max-w-[30vw] lg:relative lg:z-10">
+          <img src="/AjowadDP.webp" alt="Profile Picture" />
         </div>
       </div>
     </div>
