@@ -15,7 +15,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>Agrodesh App</p>
           <img
-            src="/AgrodeshApp.png"
+            src="/AgrodeshApp.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -36,7 +36,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>LitterNot App</p>
           <img
-            src="/LitterNotApp.png"
+            src="/LitterNotApp.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -57,7 +57,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>Ferrara Landscaping Website</p>
           <img
-            src="/GardeningWebsite.png"
+            src="/GardeningWebsite.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -78,7 +78,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>Rhea Fine Dining Website</p>
           <img
-            src="/RestaurantWebsite.png"
+            src="/RestaurantWebsite.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -99,7 +99,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>JDoodle IDE Website</p>
           <img
-            src="/CodingWebsite.png"
+            src="/CodingWebsite.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -120,7 +120,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>FreeGuides App Website</p>
           <img
-            src="/HostelAppWebsite.png"
+            src="/HostelAppWebsite.webp"
             alt="dummy image"
             width="1000"
             height="1000"
@@ -137,7 +137,7 @@ export const tabs = [
       <div className={divClassName}>
         <p>Live and Fresh Website</p>
         <img
-          src="/SeafoodCompanyWebsite.png"
+          src="/SeafoodCompanyWebsite.webp"
           alt="dummy image"
           width="1000"
           height="1000"
@@ -157,7 +157,7 @@ export const tabs = [
         <div className={divClassName}>
           <p>Nomad Trucking Website</p>
           <img
-            src="/TruckingWebsite.png"
+            src="/TruckingWebsite.webp"
             alt="dummy image"
             width="1000"
             height="1000"
